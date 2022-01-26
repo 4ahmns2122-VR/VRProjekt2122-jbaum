@@ -12,59 +12,15 @@ public class Zahlenquiz : MonoBehaviour
     public GameObject gruen;
     public GameObject rot;
 
-
-   // private void OnTriggerEnter(Collider other)
-   // {
-   //     if (other.name == "") ;
-   // }
+    public void Trigger(string tag)
+    {
+        if(a.Length < 4) { a += tag; }
+        
+    }
 
     void Update()
     {
         t.text = a;
-    }
-
-    public void Eins()
-    {
-        a += "1";
-    }
-
-    public void Zwei()
-    {
-        a += "2";
-    }
-
-    public void Drei()
-    {
-        a += "3";
-    }
-
-    public void Vier()
-    {
-        a += "4";
-    }
-    public void Fuenf()
-    {
-        a += "5";
-    }
-
-    public void Sechs()
-    {
-        a += "6";
-    }
-
-    public void Sieben()
-    {
-        a += "7";
-    }
-
-    public void Acht()
-    {
-        a += "8";
-    }
-
-    public void Neun()
-    {
-        a += "9";
     }
 
     public void Pruefen()

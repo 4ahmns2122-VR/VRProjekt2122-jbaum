@@ -17,6 +17,7 @@ public class Briefkasten : MonoBehaviour
         {
            // tuer.SetActive(false);
             tuerAn.SetBool("TuerDisappear", true);
+            print("trigger");
         }
     }
 }
