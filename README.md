@@ -19,7 +19,7 @@ Escape room at the beginning there is a small sign with "Welcome to our Escape r
 ## Milestones:
 1. 25 November – funktionierender Maze Build auf der Quest (hat funktioniert)
 2. 23 Dezember – Build auf der Quest mit  einem Minigame ("Brief" in einen Briefkasten legen hat funktioniert)
-3. 20 Jänner – Build auf der Quest mit 2 games (haben leider nicht funktioniert/ 1. game wurde verschoben, ohne Trigger, somit funktionierte das 1. game nicht. 2. Game war nur mit der Maus bedienbar)
+3. 20 Jänner – Build auf der Quest mit 2 games (beide Games funktionieren im XRInteraction Toolkit - Quest konnte ich noch nicht ausprobieren, Ambience Sound hat funktioniert, Objekte hatten zwar Sound aber die Lautstärke muss noch besser angepasst werden. Teleportieren funktioniert im XRInteraction Toolkit momentan nicht)
 
 ### Development platform: 
 OS: Windows 10, Game Engine: Unity 2020.3.18f1, Visual Studio 2019, XR Interaction Toolkit
