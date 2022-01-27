@@ -17,9 +17,9 @@ Escape room at the beginning there is a small sign with "Welcome to our Escape r
 	- Bei den Games technische Sounds (piepen, rauschen)
 
 ## Milestones:
-25. November – funktionierender Maze Build auf der Quest
-23. Dezember – Build auf der Quest mit  einem Minigame
-20. Jänner – Build auf der Quest mit 2 games (vollständiges MVP)
+1. 25 November – funktionierender Maze Build auf der Quest
+2. 23 Dezember – Build auf der Quest mit  einem Minigame
+3. 20 Jänner – Build auf der Quest mit 2 games (vollständiges MVP)
 
 ### Development platform: 
 OS: Windows 10, Game Engine: Unity 2020.3.18f1, Visual Studio 2019, XR Interaction Toolkit
