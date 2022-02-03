@@ -59,6 +59,9 @@ Oculus Rift/S; Quest/2
 For testing without a headset, use the XR Device Simulator (included in the xr interaction toolkit package):  https://www.youtube.com/watch?v=d4bTpkvBwrs
 
 ### Limitations/Problems:
+- XR Device Simulator teleports into the ground with debug modus (works on Quest)
+- Sounds not perfectly modified (Volume)
+
 
 
 Copyright by jbaum
