@@ -36,7 +36,8 @@ Oculus Rift/S; Quest/2
 
 
 ### Visuals: 
-![image](https://user-images.githubusercontent.com/72390133/142413211-7081f8b1-1d0a-4ae9-ad4c-a6a040d632ce.png)
+![image](https://user-images.githubusercontent.com/72390133/152331592-e3a99c44-26fc-4150-ad7a-a8e575620bde.png)
+
 
 
 ### Third party material: 
