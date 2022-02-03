@@ -1,4 +1,4 @@
-# XRInteractionToolkitTemplate
+# VRProject2122-jbaum
 
 ### Project description: 
 This project serves as sample project for spatial audio. 
@@ -8,18 +8,40 @@ BASIC IDEA:
 Escape room at the beginning there is a small sign with "Welcome to our Escape room". The environment of the Escape room consists of trees and stones covered with snow. In order to leave the maze again, 2 tasks have to be completed. We are guided through the maze acoustically, but also stylistically (by light and colour mood). The maze is basically designed with cold colours (blue, white,...). At the tasks, however, there are lanterns with warm light (orange, yellow,...) to guide us through the maze. Teleportation is used to move around.
 
 ## MVP
-- Man muss sich durch das Labyrinth bewegen können (teleportieren) gegeben durch Projekt
+- You have to be able to move through the labyrinth (teleport) given by project
 - 2 Games 
-    - Karte/Brief muss aufgehoben und wo rein gelegt werden, um Tür zu öffnen
-    - Einen Zahlencode eingeben
--	Audio
-	- Wald Atmosphäre (Wind, Vögel) 
-	- Bei den Games technische Sounds (piepen, rauschen)
+    - Card/letter must be picked up and placed where to open door
+    - Enter a numerical code
+- audio
+	- Forest atmosphere (wind, birds) 
+	- Technical sounds in the games (beeping, rustling)
 
 ## Milestones:
-1. 25 November – funktionierender Maze Build auf der Quest (hat funktioniert)
-2. 23 Dezember – Build auf der Quest mit  einem Minigame ("Brief" in einen Briefkasten legen hat funktioniert)
-3. 20 Jänner – Build auf der Quest mit 2 games (beide Games funktionieren im XRInteraction Toolkit - Quest konnte ich noch nicht ausprobieren, Ambience Sound hat funktioniert, Objekte hatten zwar Sound aber die Lautstärke muss noch besser angepasst werden. Teleportieren funktioniert im XRInteraction Toolkit momentan nicht)
+1. 25 November - working Maze build on the quest (worked).
+2. 23 December - build on the quest with a minigame (put a "letter" into a mailbox worked)
+3. 20 January - Build on the Quest with 2 games (both games work in the XRInteraction Toolkit - Quest I couldn't try yet, Ambience Sound worked, objects had sound but the volume needs to be adjusted better. Teleporting didn´t work in the XRInteraction Toolkit at that moment).
+
+
+## Work Steps 
+1. download the project and created own GitHub repository
+2. make an empty build and see that it works on the quest
+3. whitebox the project
+4. research about the most difficult minigame (if it is possible at all)
+5. programming 1st minigame
+6. documentation ReadMe
+7. testing if the first mini-game works
+8. programming 2nd minigame
+9. test the minigame on the Quest
+10. documentation ReadMe
+11. research audio (atmosphere and Foleys)
+12. research integration audio
+13. integrating audio
+15. testing minigames on the Quest 
+16. integrating assets
+17. modelling
+18. texturing
+19. testing on the quest
+20. delivery
 
 ### Development platform: 
 OS: Windows 10, Game Engine: Unity 2020.3.18f1, Visual Studio 2019, XR Interaction Toolkit
@@ -42,8 +64,7 @@ When downlaoded, you have compile time errors in the project. To solve them inst
 - TextMeshPro 3.0.6
 
 ### Target platform: 
-Oculus Rift/S; Quest/2
-
+Oculus Quest/2
 
 
 ### Visuals: 
