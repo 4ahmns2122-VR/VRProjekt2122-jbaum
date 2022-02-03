@@ -40,8 +40,6 @@ Shader "Custom/Snow" {
             LOD 200
 
             CGPROGRAM
-            // Upgrade NOTE: excluded shader from DX11, OpenGL ES 2.0 because it uses unsized arrays
-            #pragma exclude_renderers d3d11 gles
 
                     #pragma target 3.0
                     #pragma surface surf Standard addshadow vertex:vert
