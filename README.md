@@ -30,18 +30,35 @@ You need a VR headset in this case an Oculus Rift/Quest/Quest2
 
 When downlaoded, you have compile time errors in the project. To solve them install the XR interaction toolkit package via the Package Manager. (!Enable in Advanced Settings Preview Packages).
 
+### Packages
+
+- Unity UI 1.0.0
+- Version Control 1.9.0
+- Visual Studio Code Editor 1.2.4
+- Visual Studio Editor 2.0.11
+- XR Interaction Toolkit 1.0.0-pre.8
+- XR Plugin Management 4.2.0
+- Test Framework 1.1.29
+- TextMeshPro 3.0.6
+
 ### Target platform: 
 Oculus Rift/S; Quest/2
 
 
 
 ### Visuals: 
-![image](https://user-images.githubusercontent.com/72390133/142413211-7081f8b1-1d0a-4ae9-ad4c-a6a040d632ce.png)
+![image](https://user-images.githubusercontent.com/72390133/152331592-e3a99c44-26fc-4150-ad7a-a8e575620bde.png)
+![image](https://user-images.githubusercontent.com/72390133/152341168-281370b2-e00b-4464-abf2-6c1b49698ff2.png)
+![image](https://user-images.githubusercontent.com/72390133/152341545-ac0b4731-0be7-4cb7-b1d2-440cb0654abb.png)
+
+
+
 
 
 ### Third party material: 
 For testing without a headset, use the XR Device Simulator (included in the xr interaction toolkit package):  https://www.youtube.com/watch?v=d4bTpkvBwrs
 
-### Limitations/Problems: 
+### Limitations/Problems:
+
 
 Copyright by jbaum
