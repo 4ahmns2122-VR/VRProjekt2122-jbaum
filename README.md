@@ -82,6 +82,7 @@ For testing without a headset, use the XR Device Simulator (included in the xr i
 ### Limitations/Problems:
 - XR Device Simulator teleports into the ground with debug modus (works on Quest)
 - Sounds not perfectly modified (Volume)
+- Build of the APK on my laptop not possible
 
 
 
